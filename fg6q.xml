@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="DerElam/android_device_quanta_fg6q"
+	   path="device/quanta/fg6q"/>
+  <project name="DerElam/android_kernel_quanta_fg6q"
+	   path="kernel/quanta/fg6q"/>
+</manifest>
